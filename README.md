@@ -3,12 +3,18 @@
 PURCHASED WITHIN THE BUDGET ALLOTTED, AND THE REVENUE GENERATED( in Dollars ) BY MINING FOR A DAY USING THAT SETUP.*
 
 TO VIEW WEBSITE GENERATED:
+
 1.Download files
+
 2.Make sure you have PhantomJS, Selenium and BeautifulSoup installed
+
 3.Run it on local test server using:
    " python manage.py runserver " using CMD in the directory with Manage.py in it
+
 4.Make sure you have "webdriver" for Chrome/Edge
+
 5.use "http://127.0.0.1:8000/myapp" in Web Browser(Chrome/Edge)
+
 6.scroll to the bottom to find the calculator form
 
    
